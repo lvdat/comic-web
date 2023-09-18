@@ -1,0 +1,8 @@
+[submodule "comic-web-client"]
+    path = comic-web-client
+    url = https://github.com/lvdat/comic-web-client
+    branch = main
+[submodule "comic-web-server"]
+    path = comic-web-server
+    url = https://github.com/lvdat/comic-web-server
+    branch = main
